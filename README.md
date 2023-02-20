@@ -8,3 +8,5 @@ A slightly outdated crack of the Roblox Executor, Synapse X.
 5. For username enter SynapseCrackedByExit
 6. For password enter crackedexit
 7. Play with your favorite scripts on this $20 Roblox Exploit!
+# Virustotal
+https://www.virustotal.com/gui/file/a1c1fc9b4d3dc042c1e64be12de58b5118637f8522639b64b5adcd52b0d273ee?nocache=1
