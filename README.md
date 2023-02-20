@@ -8,4 +8,3 @@ A slightly outdated crack of the Roblox Executor, Synapse X.
 5. For username enter SynapseCrackedByExit
 6. For password enter crackedexit
 7. Play with your favorite scripts on this $20 Roblox Exploit!
-#--------------------------------------------------------------
